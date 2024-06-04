@@ -1,6 +1,5 @@
 
-
-![copia da bruna](https://github.com/LucasFreitas1307/AP1-projects-/assets/167094976/deb678cc-c00e-41f8-9b5a-efcb7e19f9b4)
+![Algoritmo-Programa-o-04-06-2024](https://github.com/LucasFreitas1307/AP1-projects-/assets/167094976/f76f9b14-f1d3-4695-ba6a-84ce5c0414cf)
 
 
 
