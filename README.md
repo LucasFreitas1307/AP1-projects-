@@ -1,5 +1,5 @@
 
-![Algoritmo-Programa-o-04-06-2024](https://github.com/LucasFreitas1307/AP1-projects-/assets/167094976/f76f9b14-f1d3-4695-ba6a-84ce5c0414cf)
+![giphy-4--unscreen](https://github.com/LucasFreitas1307/AP1-projects-/assets/167094976/6ce4e458-53e5-437d-b4c3-2bd12bd1eca0)
 
 
 
