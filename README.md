@@ -21,7 +21,7 @@
 - ![Lista 5](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista6)
 - ![Lista 6](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista7A)
 - ![Lista 7](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista7B)
-- ![Lista ](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/Lista8)
+- ![Lista 8](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/Lista8)
 - ![Lista 9](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista9)
 
 
