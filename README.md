@@ -15,16 +15,16 @@
 ### - Nesse repositório estão todos os códigos das listas de Algoritmo e programação 1 do primeiro período do curso de ciência da computação na Universidade Federal de Jataí
 <div align ="left">
 
-  ##
+  ## Lista 1
 - ➡️[LISTA 1](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista1)
 - ↪️ [codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista1/ex2)
-##
+## Lista 2
 - ➡️[LISTA 2](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/Lista2)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista2/Ex1)
 - ↪️[codigo 2](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista2/ex2)
 - ↪️[codigo 3](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista2/ex3)
 - ↪️[codigo 4](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista2/ex4)
-##
+## Lista 3
 
 - ➡️[LISTA 3](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista3)
 
@@ -37,32 +37,32 @@
 - ↪️[codigo 6](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista3/6)
 - ↪️[codigo 7](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista3/7)
 - ↪️[codigo 8](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista3/8)
-##
+## Lista 4
 - ➡️[LISTA 4](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista4)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista4/code1)
 - ↪️[codigo 2](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista4/code2)
 - ↪️[codigo 3](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista4/code3)
 - ↪️[codigo 4](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista4/code4)
-##
+## Lista 5
 - ➡️[LISTA 5](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista6)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista6/ex1)
 - ↪️[codigo 2](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista6/ex2)
 - ↪️[codigo 3](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista6/ex3)
 - ↪️[codigo 4](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista6/ex4)
-##
+## Lista 6 
 - ➡️[LISTA 6](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista7A)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista7A/code%201)
-##
+## Lista 7 
 - ➡️[LISTA 7](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista7B)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista7B)
-#
+# Lista 8 
 - ➡️[LISTA 8](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/Lista8)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista8/code1)
 - ↪️[codigo 2](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista8/code2)
 - ↪️[codigo 3](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista8/code3)
 - ↪️[codigo 4](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista8/code4)
 - ↪️[codigo 5](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Lista8/code5)
-##
+## Lista 9
 - ➡️[LISTA 9](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/lista9)
 - ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista9/code1)
 - ↪️[codigo 2](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista9/code2)
