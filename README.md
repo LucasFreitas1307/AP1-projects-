@@ -69,8 +69,8 @@
 - ↪️[codigo 3](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista9/code3.c)
 - ↪️[codigo 4](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/lista9/code4.c)
 ## Prova 2
-- ➡️[Prova 2]()
-- ↪️[codigo 1]()
+- ➡️[Prova 2](https://github.com/LucasFreitas1307/AP1-projects-/tree/main/Prova%202)
+- ↪️[codigo 1](https://github.com/LucasFreitas1307/AP1-projects-/blob/main/Prova%202/codigo%201.c)
 </div>
 
 
