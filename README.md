@@ -12,7 +12,7 @@
 
 
 
-### - Nesse repositório estão todos os códigos das listas de Algoritmo e programação 1 do primeiro período do curso de ciência da computação na Universidade Federal de Jataí
+## - Nesse repositório estão todos os códigos das listas de Algoritmo e programação 1 do primeiro período do curso de ciência da computação na Universidade Federal de Jataí
 <div align ="left">
 
   # Lista 1
